@@ -4,8 +4,6 @@
 
 This project is a **mini version of a real-world reporting system** that handles high-volume transactional or sensor data.
 
-It simulates a system similar to **CERN monitoring experiments** but in a simplified banking/sensor style.
-
 **Key features:**
 
 - Generates synthetic transactional data
@@ -13,8 +11,6 @@ It simulates a system similar to **CERN monitoring experiments** but in a simpli
 - Stores data in a SQLite database
 - Performs analytics queries
 - Streamlit dashboard for visualization
-
----
 
 ## Motivation
 
@@ -26,7 +22,7 @@ Without an efficient data pipeline, it is difficult to:
 - Detect anomalies
 - Support data-driven decision making
 
-This project demonstrates **scalable data handling** and **monitoring**, applicable to:
+This project demonstrates "scalable data handling" and "monitoring", applicable to:
 
 - Banking transactions
 - Sensor systems
@@ -123,11 +119,9 @@ Add advanced analytics and anomaly detection
 
 Use PostgreSQL for more scalable database support
 
+
 **Contact / Author**
 Name: Phonephet Vilaysack
-
 Location: Spain
 
 ```
-
-![image.png](attachment:3b1e2b40-f430-489e-9b68-c337a76b1728:image.png)
