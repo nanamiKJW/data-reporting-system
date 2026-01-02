@@ -75,13 +75,13 @@ python scripts/generate_data.py
 python scripts/etl_pipeline.py
 python scripts/load_to_db.py
 
-3. Run Streamlit Dashboard (optional)
+3. Run Streamlit Dashboard
 
 cd dashboard
 streamlit run app.py
 Open browser at: <http://localhost:8501>
 
-Sample Outputs
+Sample Outputs:
 
 Total transactions: 10,000
 
